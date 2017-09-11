@@ -1,0 +1,86 @@
+{"_id":"10","name_ru":" Астана","name_kz":"Астана қ","name_en":"Astana","countryId":"1","regionId":"4","center":{"lat":51.16599717,"lng":71.4245224},"createdAt":1.467874627447e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"12","name_ru":"Алматы","name_kz":"Алматы","name_en":"Almaty","countryId":"1","regionId":"1","center":{"lat":43.27320592,"lng":76.83769226},"createdAt":1.467884424586e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"13","name_ru":"Есик","name_kz":"Есік","name_en":"Esik","countryId":"1","regionId":"1","createdAt":1.467884502225e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"14","name_ru":"Капшагай","name_kz":"Қапшағай","name_en":"Kapchagay","countryId":"1","regionId":"1","createdAt":1.467884571743e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"15","name_ru":"Каскеле́н","name_kz":"Қаскелең","name_en":"Kaskelen","countryId":"1","regionId":"1","createdAt":1.467884708842e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"16","name_ru":"Сарка́нд","name_kz":"Сарқан","name_en":"Sarkand","countryId":"1","regionId":"1","createdAt":1.467884791155e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"17","name_ru":"Талга́р","name_kz":"Талғар","name_en":"Talgar","countryId":"1","regionId":"1","createdAt":1.467884882918e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"18","name_ru":"Те́кели","name_kz":"Текелі","name_en":"Tekeli","countryId":"1","regionId":"1","createdAt":1.467884982101e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"19","name_ru":"Ушарал","name_kz":"Үшарал","name_en":"Usharal","countryId":"1","regionId":"1","createdAt":1.467885035911e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"20","name_ru":"Уштобе́","name_kz":"Үштөбе","name_en":"Ushtobe","countryId":"1","regionId":"1","createdAt":1.467885096147e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"21","name_ru":"Алга́","name_kz":"Алға","name_en":"Alga","countryId":"1","regionId":"2","createdAt":1.467887847124e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"22","name_ru":"Э́мба","name_kz":"Ембі","name_en":"Embi","countryId":"1","regionId":"2","createdAt":1.467887910082e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"23","name_ru":"Хромта́у","name_kz":"Хромтау","name_en":"Khromtau","countryId":"1","regionId":"2","createdAt":1.46788797744e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"24","name_ru":"Кандыагаш","name_kz":"Қандыағаш","name_en":"Kandyagash","countryId":"1","regionId":"2","createdAt":1.467888025989e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"25","name_ru":"Шалка́р","name_kz":"Шалқар","name_en":"Shalkar","countryId":"1","regionId":"2","createdAt":1.467888084366e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"26","name_ru":"Темир","name_kz":"Темір","name_en":"Temir","countryId":"1","regionId":"2","createdAt":1.467888144967e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"27","name_ru":"Жем","name_kz":"Жем","name_en":"Zhem","countryId":"1","regionId":"2","createdAt":1.46788825281e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"28","name_ru":"Аба́й","name_kz":"Абай","name_en":"Abay","countryId":"1","regionId":"3","createdAt":1.467888330414e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"29","name_ru":"Атасу","name_kz":"Атасу","name_en":"Atasu","countryId":"1","regionId":"3","createdAt":1.467888447705e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"30","name_ru":"Балха́ш","name_kz":"Балқаш","name_en":"Balkhash","countryId":"1","regionId":"3","createdAt":1.467888501096e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"31","name_ru":"Караганда́","name_kz":"Қарағанды","name_en":"Karaganda","countryId":"1","regionId":"3","createdAt":1.467888563785e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"32","name_ru":"Каража́л","name_kz":"Қаражал","name_en":"Karazhal","countryId":"1","regionId":"3","createdAt":1.467888618019e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"33","name_ru":"Каркарали́нск","name_kz":"Қарқаралы","name_en":"Karkaraly","countryId":"1","regionId":"3","createdAt":1.467888666031e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"34","name_ru":"Приозёрск","name_kz":"Приозерск ","name_en":"Priozersk","countryId":"1","regionId":"3","createdAt":1.467888726795e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"35","name_ru":"Сарань","name_kz":"Саран","name_en":"Saran","countryId":"1","regionId":"3","createdAt":1.467888771565e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"36","name_ru":"Сатпа́ев","name_kz":"Сәтбаев","name_en":"Satbayev","countryId":"1","regionId":"3","createdAt":1.467888821043e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"37","name_ru":"Ша́хтинск","name_kz":"Шахтинск","name_en":"Shakhtinsk","countryId":"1","regionId":"3","createdAt":1.467888870548e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"38","name_ru":"Темирта́у","name_kz":"Теміртау","name_en":"Temirtau","countryId":"1","regionId":"3","createdAt":1.467888914756e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"39","name_ru":"Жезказга́н","name_kz":"Жезқазған ","name_en":"Jezkazgan","countryId":"1","regionId":"3","createdAt":1.467888987476e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"40","name_ru":"Акко́ль","name_kz":"Ақкөл","name_en":"Akkol","countryId":"1","regionId":"4","createdAt":1.467945130846e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"42","name_ru":"Атбаса́р","name_kz":"Атбасар","name_en":"Atbasar","countryId":"1","regionId":"4","createdAt":1.467945585399e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"43","name_ru":"Державинск","name_kz":"Державинск","name_en":"Derzhavinsk","countryId":"1","regionId":"4","createdAt":1.467945650525e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"44","name_ru":"Ерейментау","name_kz":"Ерейментау","name_en":"Ereymentau","countryId":"1","regionId":"4","createdAt":1.467945709238e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"45","name_ru":"Есиль","name_kz":"Есіл","name_en":"Esil","countryId":"1","regionId":"4","createdAt":1.467945784447e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"46","name_ru":"Кокшета́у","name_kz":"Көкшетау","name_en":"Kokshetau","countryId":"1","regionId":"4","createdAt":1.467945815334e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"47","name_ru":"Ма́кинск","name_kz":"Макинск","name_en":"Makinsk","countryId":"1","regionId":"4","createdAt":1.467945871706e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"48","name_ru":"Щу́чинск","name_kz":"Щучинск ","name_en":"Shchuchinsk","countryId":"1","regionId":"4","createdAt":1.467945929797e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"49","name_ru":"Степногорск","name_kz":"Степногорск","name_en":"Stepnogorsk","countryId":"1","regionId":"4","createdAt":1.467945991708e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"50","name_ru":"Степняк","name_kz":"Степняк","name_en":"Stepnyak","countryId":"1","regionId":"4","createdAt":1.467946575752e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"51","name_ru":"Атыра́у","name_kz":"Атырау","name_en":"Atyrau","countryId":"1","regionId":"5","createdAt":1.467946892707e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"52","name_ru":"Кульсары","name_kz":"Құлсары","name_en":"Kulsary","countryId":"1","regionId":"5","createdAt":1.467946957419e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"53","name_ru":"Аягоз","name_kz":"Аягөз","name_en":"Ayagoz","countryId":"1","regionId":"6","createdAt":1.467947311796e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"54","name_ru":"Чарск","name_kz":"Шар","name_en":"Charsk","countryId":"1","regionId":"6","createdAt":1.467947370923e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"55","name_ru":"Курчатов","name_kz":"Курчатов","name_en":"Kurchatov","countryId":"1","regionId":"6","createdAt":1.467947434472e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"56","name_ru":"Ри́ддер","name_kz":"Риддер","name_en":"Ridder","countryId":"1","regionId":"6","createdAt":1.467947491366e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"57","name_ru":"Семе́й","name_kz":"Семей","name_en":"Semey","countryId":"1","regionId":"6","createdAt":1.467947551306e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"58","name_ru":"Серебря́нск ","name_kz":"Серебрянск","name_en":"Serebryansk","countryId":"1","regionId":"6","createdAt":1.467947609761e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"59","name_ru":"Шемонаиха","name_kz":"Шемонаиха","name_en":"Shemonaikha","countryId":"1","regionId":"6","createdAt":1.467947661551e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"60","name_ru":"Усть-Каменого́рск ","name_kz":"Өскемен","name_en":"Oskemen","countryId":"1","regionId":"6","createdAt":1.467947716902e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"61","name_ru":"Зайсан","name_kz":"Зайсан","name_en":"Zaysan","countryId":"1","regionId":"6","createdAt":1.467947773879e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"62","name_ru":"Зыря́новск","name_kz":"Зыряновск","name_en":"Zyryanovsk","countryId":"1","regionId":"6","createdAt":1.467947878755e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"63","name_ru":"Каратау","name_kz":"Қаратау","name_en":"Karatau","countryId":"1","regionId":"7","createdAt":1.467948075311e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"64","name_ru":"Шу","name_kz":"Шу","name_en":"Shu","countryId":"1","regionId":"7","createdAt":1.467949332752e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"65","name_ru":"Тара́з","name_kz":"Тараз","name_en":"Taraz","countryId":"1","regionId":"7","createdAt":1.467949410794e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"66","name_ru":"Жанатас","name_kz":"Жаңатас","name_en":"Janatas","countryId":"1","regionId":"7","createdAt":1.467949462622e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"67","name_ru":"Жарке́нт","name_kz":"Жаркент","name_en":"Zharkent","countryId":"1","regionId":"7","createdAt":1.467949513129e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"68","name_ru":"Акса́й","name_kz":"Ақсай","name_en":"Aksay","countryId":"1","regionId":"8","createdAt":1.467949689163e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"69","name_ru":"Ура́льск","name_kz":"Орал","name_en":"Oral","countryId":"1","regionId":"8","createdAt":1.467949747026e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"7","name_ru":"Актобе","name_kz":"Ақтөбе","name_en":"Aktobe","countryId":"1","regionId":"2","createdAt":1.467874183145e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"70","name_ru":"Аркалы́к","name_kz":"Арқалық","name_en":"Arkalyk","countryId":"1","regionId":"9","createdAt":1.467949931321e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"71","name_ru":"Костана́й","name_kz":"Қостанай","name_en":"Kostanay","countryId":"1","regionId":"9","createdAt":1.467949981009e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"72","name_ru":"Лисаковск","name_kz":"Лисаковск","name_en":"Lisakovsk","countryId":"1","regionId":"9","createdAt":1.467950030581e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"73","name_ru":"Ру́дный","name_kz":"Рудный","name_en":"Rudniy","countryId":"1","regionId":"9","createdAt":1.46795008563e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"74","name_ru":"Житикара","name_kz":"Жітіқара","name_en":"Zhetikara","countryId":"1","regionId":"9","createdAt":1.467950142625e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"75","name_ru":"Аральск ","name_kz":"Арал","name_en":"Aral","countryId":"1","regionId":"10","createdAt":1.467950297519e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"76","name_ru":"Байконур","name_kz":"Байқоңыр","name_en":"Baikonur","countryId":"1","regionId":"10","createdAt":1.46795069319e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"77","name_ru":"Казали́нск","name_kz":"Қазалы","name_en":"Kazaly","countryId":"1","regionId":"10","createdAt":1.467950845646e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"78","name_ru":"Кызылорда́","name_kz":"Қызылорда","name_en":"Kyzylorda","countryId":"1","regionId":"10","createdAt":1.467950918811e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"79","name_ru":"Акта́у","name_kz":"Ақтау","name_en":"Aktau","countryId":"1","regionId":"11","createdAt":1.46795113119e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"8","name_ru":"Талдыкорга́н","name_kz":"Талдықорған","name_en":"Taldykorgan","countryId":"1","regionId":"1","createdAt":1.467874249398e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"80","name_ru":"Форт-Шевче́нко ","name_kz":"Форт-Шевченко ","name_en":"Fort Shevchenko ","countryId":"1","regionId":"11","createdAt":1.46795124272e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"81","name_ru":"Жанаозе́н","name_kz":"Жаңаөзен","name_en":"Zhanaozen","countryId":"1","regionId":"11","createdAt":1.46795131229e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"82","name_ru":"Аксу́","name_kz":"Ақсу","name_en":"Aksu","countryId":"1","regionId":"12","createdAt":1.467951524022e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"83","name_ru":"Экибасту́з","name_kz":"Екібастұз","name_en":"Ekibastuz","countryId":"1","regionId":"12","createdAt":1.467951807714e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"84","name_ru":"Павлода́р","name_kz":"Павлодар","name_en":"Pavlodar","countryId":"1","regionId":"12","createdAt":1.467952838138e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"85","name_ru":"Булаево","name_kz":"Булаев","name_en":"Bulayevo","countryId":"1","regionId":"13","createdAt":1.467969943932e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"86","name_ru":"Мамлютка","name_kz":"Мамлют","name_en":"Mamlyutka","countryId":"1","regionId":"13","createdAt":1.467971164055e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"87","name_ru":"Петропавловск","name_kz":"Петропавл","name_en":"Petropavl","countryId":"1","regionId":"13","createdAt":1.467971224809e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"88","name_ru":"Сергеевка","name_kz":"Сергеев","name_en":"Sergeyevka","countryId":"1","regionId":"13","createdAt":1.467971275545e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"89","name_ru":"Тайынша","name_kz":"Тайынша","name_en":"Taiynsha","countryId":"1","regionId":"13","createdAt":1.467971323761e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"90","name_ru":"Кентау","name_kz":"Кентау","name_en":"Kentau","countryId":"1","regionId":"14","createdAt":1.467971525729e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"91","name_ru":"Ленгер","name_kz":"Ленгер ","name_en":"Lenger","countryId":"1","regionId":"14","createdAt":1.467971577542e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"92","name_ru":"Шардара","name_kz":"Шардара","name_en":"Shardara","countryId":"1","regionId":"14","createdAt":1.467971634591e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"93","name_ru":"Шымкент","name_kz":"Шымкент","name_en":"Shymkent ","countryId":"1","regionId":"14","createdAt":1.467971691816e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"94","name_ru":"Туркестан","name_kz":"Түркістан","name_en":"Turkistan","countryId":"1","regionId":"14","createdAt":1.467971793599e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}
+{"_id":"95","name_ru":"Жетысай ","name_kz":"Жетісай","name_en":"Zhetisay","countryId":"1","regionId":"14","createdAt":1.467971875433e+12,"createdBy":"dY96zeX5ZNn5SNZZR"}

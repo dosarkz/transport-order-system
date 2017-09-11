@@ -1,0 +1,13 @@
+{"_id":"1","name":"Эконом","position":1.0,"catId":"4","tplId":"3","createdAt":1.463200479492e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"10","name":"Кран","position":10.0,"catId":"1","tplId":"5","createdAt":1.463200442057e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"11","name":"Автогрейдер","position":11.0,"catId":"1","tplId":"9","createdAt":1.464146918729e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"12","name":"Экскаватор","position":12.0,"catId":"1","tplId":"7","createdAt":1.464146899887e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"13","name":"Погрузчик","position":13.0,"catId":"1","tplId":"10","createdAt":1.464146929729e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"2","name":"Бизнесс","position":2.0,"catId":"4","tplId":"3","createdAt":1.464146831006e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"3","name":"Представительский","position":3.0,"catId":"4","tplId":"3","createdAt":1.464146845442e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"4","name":"Автобусы","position":4.0,"catId":"2","tplId":"1","createdAt":1.462608078868e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"5","name":"Микроавтобус","position":5.0,"catId":"2","tplId":"1","createdAt":1.463200427473e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"6","name":"Самосвалы","position":6.0,"catId":"3","tplId":"4","createdAt":1.464146863746e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"7","name":"Фуры","position":7.0,"catId":"3","tplId":"4","createdAt":1.464146868476e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"8","name":"Манипулятор","position":8.0,"catId":"1","tplId":"8","createdAt":1.464146911082e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
+{"_id":"9","name":"Бульдозер","position":9.0,"catId":"1","tplId":"6","createdAt":1.463200647064e+12,"createdBy":"Dt88KQbTA9NSTDZwz"}
